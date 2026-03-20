@@ -1,0 +1,6 @@
+@Azure_DAP_Storage_ManagedIdentity_HostAddress = http://localhost:5166
+
+GET {{Azure_DAP_Storage_ManagedIdentity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
